@@ -1,0 +1,55 @@
+body{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-color: beige;
+  
+}
+.div1{
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+    width: 600px;
+
+}
+
+img{
+    height: 350px;
+    width: 300px ;
+}
+.div2{
+    padding: 10px;
+
+}
+.div3{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.p3{
+    font-size: small;
+    text-decoration: line-through;
+    
+}
+.p2{
+    color: green;
+    font-size: 25px;
+}
+button{
+    padding: 10px;
+    background-color: green;
+    border-radius: 10px;
+    width: 100%;
+    color: white;
+  
+    
+}
+.div4{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: -px;
+    margin-top: 20px;
+
+}
